@@ -51,6 +51,30 @@ Welcome to my SQL Portfolio. This repository is a curated collection of end-to-e
 * **Anticipated Skills:** Inventory Turnover Ratios, Forecasting Logic in SQL.
 * **Status:** ⚪ Scheduled
 
+### ⚡ 07. Energy & Sustainability
+**Project: Power Consumption Patterns & Efficiency Optimization**
+* **Upcoming Focus:** Identifying industrial zones requiring prioritized energy efficiency upgrades through peak-time load analysis.
+* **Anticipated Skills:** `Date/Time Functions` (Peak usage), `Subqueries` (Consumption benchmarking).
+* **Status:** ⚪ Scheduled
+
+### 🎬 08. Entertainment & Streaming
+**Project: Content Consumption Patterns & Churn Prediction**
+* **Upcoming Focus:** Analyzing viewer behavior to identify high-risk churn segments and content genres that drive premium conversions.
+* **Anticipated Skills:** `Window Functions` (Daily active streaks), `CASE WHEN` (User tier classification).
+* **Status:** ⚪ Scheduled
+
+### 🏠 09. Real Estate & PropTech
+**Project: Market Trend Analysis & Investment Valuation Modeling**
+* **Upcoming Focus:** Quantifying the impact of school districts and public transit proximity on property appreciation rates.
+* **Anticipated Skills:** `Advanced Joins` (Infrastructure x Property data), Time-series Analysis.
+* **Status:** ⚪ Scheduled
+
+### 🎓 10. Education & EdTech
+**Project: Student Learning Progress & Performance Correlation**
+* **Upcoming Focus:** Measuring how early engagement (e.g., first-week quiz completion) correlates with overall course completion rates.
+* **Anticipated Skills:** `Cohort Analysis` (Completion funnel), `RANK()` (Top performer patterns).
+* **Status:** ⚪ Scheduled
+
 ---
 
 ## 📑 Portfolio Philosophy
