@@ -33,7 +33,7 @@ Welcome to my SQL Portfolio. This repository is a curated collection of end-to-e
 * **Anticipated Skills:** Pattern Matching, Complex Filtering, CTEs.
 * **Status:** ⚪ Scheduled
 
-~~~
+``
 ### 🏥 04. Healthcare & Pharmaceuticals
 **Project: Patient Flow & Operational Efficiency Analysis**
 * **Upcoming Focus:** Optimizing hospital resource allocation by analyzing patient wait times and treatment cycles.
@@ -75,7 +75,7 @@ Welcome to my SQL Portfolio. This repository is a curated collection of end-to-e
 * **Upcoming Focus:** Measuring how early engagement (e.g., first-week quiz completion) correlates with overall course completion rates.
 * **Anticipated Skills:** `Cohort Analysis` (Completion funnel), `RANK()` (Top performer patterns).
 * **Status:** ⚪ Scheduled
-~~~
+``
 ---
 
 ## 📑 Portfolio Philosophy
