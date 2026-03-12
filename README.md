@@ -19,7 +19,7 @@ Welcome to my SQL Portfolio. This repository is a curated collection of end-to-e
 * **Business Case:** Identifying logistics bottlenecks and regional conversion friction to reduce cart abandonment.
 * **Key Challenges:** Handling 100k+ rows of transactional data and performing complex multi-table joins.
 * **Core Skills:** Window Functions, Case Statements, Trend Analysis.
-* **Status:** 🟢 In Progress / [View Full Repository →](https://github.com/your-username/TheLook-eCommerce-Analysis)
+* **Status:** 🟢 In Progress / [View Full Repository →](https://github.com/data-by-jpark/TheLook-eCommerce-Analysis)
 
 ### 👥 02. Human Resources (HR)
 **Project: Strategic Workforce & Retention Analytics**
