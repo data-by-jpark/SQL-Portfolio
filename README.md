@@ -15,7 +15,7 @@ Welcome to my SQL Portfolio. This repository is a curated collection of end-to-e
 ## 🚀 Specialized Projects by Domain
 
 ### 🛒 01. E-Commerce & Retail
-**[Project: TheLook eCommerce - Geo-Friction & Conversion Analysis](https://github.com/your-username/TheLook-eCommerce-Analysis)**
+**[Project: TheLook eCommerce - Geo-Friction & Conversion Analysis](https://github.com/data-by-jpark/TheLook-eCommerce-Analysis)**
 * **Business Case:** Identifying logistics bottlenecks and regional conversion friction to reduce cart abandonment.
 * **Key Challenges:** Handling 100k+ rows of transactional data and performing complex multi-table joins.
 * **Core Skills:** Window Functions, Case Statements, Trend Analysis.
