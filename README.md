@@ -83,8 +83,8 @@ Welcome to my SQL Portfolio. This repository is a curated collection of end-to-e
 ### **Project:** [LeetCode SQL 50 Solutions](https://github.com/data-by-jpark/LeetCode-SQL-Solutions) — "The Daily Grind"
 * **Goal:** Solving high-complexity logic puzzles to optimize query performance and edge-case handling.
 * **Core Skills:**
-    * **Advanced Analytics:** `LAG/LEAD` (MoM Growth), `DENSE_RANK` (Top-N Analysis).
-    * **Complex Logic:** `HAVING`, `EXISTS`, and Subquery Optimization.
+    * **Advanced Analytics:** `Window Functions` (Moving Averages), `DENSE_RANK`, `Self-Joins`.
+    * **Complex Logic:** `Subqueries` (IN/EXISTS), `UNION ALL`, and `Date Manipulation`.
 * **Progress:** 42 / 50 Challenges Completed ![Progress Bar](https://geps.dev/progress/84)
 * **Status:** 🔵 Active / [Explore Solutions →](https://github.com/data-by-jpark/LeetCode-SQL-Solutions)
 
